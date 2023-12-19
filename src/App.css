@@ -1,0 +1,29 @@
+.nav-link,
+.active {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+
+.nav-link::after,
+.active::after {
+  content: "";
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0); /* Start at 50% width */
+  height: 2px;
+  bottom: -7px;
+  left: 0;
+  background-color: #0087ca; /* Color for .nav-link */
+  transform-origin: center; /* Start animation from the center */
+  transition: transform 0.2s ease;
+}
+
+.active::after {
+  background-color: #ff7a00; /* Color for .active */
+}
+
+.nav-link:hover::after,
+.active::after {
+  transform: scaleX(1); /* Expand to full width */
+}

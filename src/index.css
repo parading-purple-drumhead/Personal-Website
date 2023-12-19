@@ -1,0 +1,89 @@
+.main-bg {
+  background-color: #ff7a00;
+  color: #fff;
+}
+
+.main-text {
+  color: #ff7a00;
+}
+
+.project {
+  overflow: hidden;
+  height: 20rem;
+  border-radius: 0.5rem;
+  transition: ease-out 0.25s;
+}
+
+.project:hover {
+  transform: scale(1.02);
+  transition: ease-out 0.25s;
+  cursor: pointer;
+}
+
+.project-description {
+  text-align: left;
+  -webkit-line-clamp: 8;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.project-image {
+  height: 20rem;
+  width: 100%;
+  object-fit: cover;
+}
+
+.tech-chip {
+  display: inline-block;
+  padding: 0.25rem 0.75rem; /* Adjust the padding as needed */
+  border-radius: 1.5rem; /* Adjust the border-radius to make it more or less pill-shaped */
+  border: 1px solid #ff7a00;
+  margin-right: 0.5rem;
+}
+
+/* Large devices (laptops/desktops, 992px and down) */
+@media only screen and (max-width: 992px) {
+  .project {
+    overflow: hidden;
+    height: 30rem;
+    border-radius: 0.5rem;
+  }
+
+  .project-image {
+    height: 15rem;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .project-description {
+    text-align: left;
+    -webkit-line-clamp: 5;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .project {
+    overflow: hidden;
+    height: 23rem;
+    border-radius: 0.5rem;
+  }
+
+  .project-image {
+    height: 10rem;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .project-description {
+    text-align: left;
+    -webkit-line-clamp: 4;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+}
