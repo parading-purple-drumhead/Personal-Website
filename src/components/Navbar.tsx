@@ -25,6 +25,22 @@ const Navbar = () => {
   const [isResume, setIsResume] = useState<boolean>(false);
   const [isProjects, setIsProjects] = useState<boolean>(false);
 
+  useEffect(() => {
+    const navbar = document.getElementById("navbarSupportedContent");
+    const navbarTitle = document.getElementById("navbar-title");
+
+    // Add an event listener for the 'hidden' event
+    navbar?.addEventListener("hidden.bs.collapse", function () {
+      navbarTitle!.style.display = "block";
+    });
+
+    navbar?.addEventListener("show.bs.collapse", function () {
+      navbarTitle!.style.display = "none";
+    });
+  }, []);
+
+  // Get the collapsible element
+
   return (
     // Top navbar for tablets and phones
     <nav className="navbar navbar-expand-lg bg-body-tertiary d-lg-none px-3">
