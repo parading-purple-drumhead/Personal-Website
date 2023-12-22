@@ -34,7 +34,7 @@
   object-fit: cover;
 }
 
-.tech-chip {
+.tag-chip {
   display: inline-block;
   padding: 0.25rem 0.75rem; /* Adjust the padding as needed */
   border-radius: 1.5rem; /* Adjust the border-radius to make it more or less pill-shaped */

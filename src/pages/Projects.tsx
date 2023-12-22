@@ -23,7 +23,7 @@ const Projects = () => {
                   title={project.title}
                   description={project.description}
                   image={project.image}
-                  techUsed={project.techUsed}
+                  tags={project.tags}
                 />
               </Link>
             ))}

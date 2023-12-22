@@ -1,5 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import data from "../data/db.json";
+import TextSection from "../components/TextSection";
 
 const ProjectDetails = () => {
   const { id } = useParams<{ id: string }>();
@@ -12,8 +13,9 @@ const ProjectDetails = () => {
   const project: {
     title: string;
     description: string;
+    sections: { heading: string; text: string }[];
     image: string;
-    techUsed: string[];
+    tags: string[];
     website: string;
     github: string;
   } = data.projects[parseInt(id) - 1];
@@ -26,15 +28,15 @@ const ProjectDetails = () => {
     );
   }
 
-  const getTechUsedString = (techUsed: string[]) => {
-    let techUsedString = "";
+  const getTagsString = (tags: string[]) => {
+    let tagsString = "";
 
-    techUsed.forEach((name, i) => {
-      if (i !== techUsed.length - 1) techUsedString += `${name}, `;
-      else techUsedString += name;
+    tags.forEach((name, i) => {
+      if (i !== tags.length - 1) tagsString += `${name}, `;
+      else tagsString += name;
     });
 
-    return techUsedString;
+    return tagsString;
   };
 
   return (
@@ -69,11 +71,11 @@ const ProjectDetails = () => {
               </div>
               <div className="row">
                 <div className="col-sm-3">
-                  <p className="mb-3">Tech Used:</p>
+                  <p className="mb-3">Tags:</p>
                 </div>
                 <div className="col-sm-9">
                   <p className="mb-3" style={{ color: "#757575" }}>
-                    {getTechUsedString(project.techUsed)}
+                    {getTagsString(project.tags)}
                   </p>
                 </div>
               </div>
@@ -83,7 +85,13 @@ const ProjectDetails = () => {
             </div>
           </div>
           <div className="row">
-            <p style={{ textAlign: "justify" }}>{project.description}</p>
+            {project.sections.map((section, i) => (
+              <TextSection
+                heading={section.heading}
+                text={section.text}
+                key={i}
+              />
+            ))}
           </div>
         </div>
       </div>

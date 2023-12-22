@@ -11,8 +11,22 @@
         {
             "title": "Project 1",
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?",
+            "sections": [
+                {
+                    "heading": "Overview",
+                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                },
+                {
+                    "heading": "How to Use",
+                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                },
+                {
+                    "heading": "Acknowledgements",
+                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                }
+            ],
             "image": "https://apiwp.thelocal.com/wp-content/uploads/2021/01/4b0ac80960b859634317466cc73b3cee7cf84fbb974a030fb2a5a8b403f2a2f2-842x563.jpg",
-            "techUsed": [
+            "tags": [
                 "Firebase",
                 "Node",
                 "React"
@@ -23,8 +37,14 @@
         {
             "title": "Project 2",
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?",
+            "sections": [
+                {
+                    "heading": "Overview",
+                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                }
+            ],
             "image": "https://apiwp.thelocal.com/wp-content/uploads/2021/01/4b0ac80960b859634317466cc73b3cee7cf84fbb974a030fb2a5a8b403f2a2f2-842x563.jpg",
-            "techUsed": [
+            "tags": [
                 "Firebase",
                 "Node",
                 "React"
@@ -35,8 +55,14 @@
         {
             "title": "Project 3",
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?",
+            "sections": [
+                {
+                    "heading": "Overview",
+                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                }
+            ],
             "image": "https://apiwp.thelocal.com/wp-content/uploads/2021/01/4b0ac80960b859634317466cc73b3cee7cf84fbb974a030fb2a5a8b403f2a2f2-842x563.jpg",
-            "techUsed": [
+            "tags": [
                 "Firebase",
                 "Node",
                 "React"
