@@ -104,7 +104,7 @@ const SideNav = () => {
         </Link>
       </div>
 
-      <h5 className="text-center mb-3">Contact Me</h5>
+      <h5 className="text-center mb-4">Contact Me</h5>
       <div className="row social-links px-4">
         <div className="col-4 social-link text-center">
           <a href={`mailto:${data.email}`} target="_blank">
