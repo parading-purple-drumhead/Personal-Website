@@ -11,12 +11,12 @@
   overflow: hidden;
   height: 20rem;
   border-radius: 0.5rem;
-  transition: ease-out 0.25s;
+  transition: ease-out 0.1s;
 }
 
 .project:hover {
   transform: scale(1.02);
-  transition: ease-out 0.25s;
+  transition: ease-out 0.1s;
   cursor: pointer;
 }
 
