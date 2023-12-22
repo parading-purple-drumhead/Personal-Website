@@ -15,7 +15,7 @@ function App() {
     <div className="landing bg-light container-fluid">
       <div className="row nav-menus">
         {/* Left panel for sidenav */}
-        <div className="col-lg-2 d-none d-lg-block">
+        <div className="col-lg-2 ps-0 d-none d-lg-block">
           <SideNav />
         </div>
         {/* Navbar for mobile displays */}
