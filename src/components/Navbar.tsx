@@ -39,8 +39,6 @@ const Navbar = () => {
     });
   }, []);
 
-  // Get the collapsible element
-
   return (
     // Top navbar for tablets and phones
     <nav className="navbar navbar-expand-lg bg-body-tertiary d-lg-none px-3">

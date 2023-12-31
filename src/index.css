@@ -40,6 +40,8 @@
   border-radius: 1.5rem; /* Adjust the border-radius to make it more or less pill-shaped */
   border: 1px solid #ff7a00;
   margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 /* Large devices (laptops/desktops, 992px and down) */
@@ -69,7 +71,7 @@
 @media only screen and (max-width: 600px) {
   .project {
     overflow: hidden;
-    height: 23rem;
+    height: 24rem;
     border-radius: 0.5rem;
   }
 
