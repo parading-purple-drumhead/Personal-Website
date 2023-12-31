@@ -7,7 +7,15 @@ const AboutMe = () => {
         <div className="col-lg-10 offset-lg-1">
           <h1 className="my-5 ">About Me</h1>
           {data.about.map((paragraph, i) => (
-            <p key={i} className="mb-5" style={{ textAlign: "justify" }}>
+            <p
+              key={i}
+              className="mb-5"
+              style={{
+                fontSize: "1.1rem",
+                textAlign: "justify",
+                lineHeight: "2.5rem",
+              }}
+            >
               {paragraph}
             </p>
           ))}

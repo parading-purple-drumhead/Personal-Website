@@ -46,7 +46,11 @@ const ProjectDetails = () => {
           <h1 className="my-lg-5 my-4 main-text">{project.title}</h1>
           <div className="row my-3">
             <div className="col-12 d-block d-md-none mb-3">
-              <img src={project.image} className="img-fluid rounded" />
+              <img
+                src={project.image}
+                className="img-fluid rounded"
+                style={{ border: "1px solid #ddd" }}
+              />
             </div>
             <div className="col-md-6 mt-3 mt-md-0">
               <div className="row">
@@ -55,7 +59,14 @@ const ProjectDetails = () => {
                 </div>
                 <div className="col-sm-8">
                   <p className="mb-3">
-                    <a href="#">{project.website}</a>
+                    {project.website !== "" && (
+                      <a href={project.website} target="_blank">
+                        {project.website}
+                      </a>
+                    )}
+                    {project.website === "" && (
+                      <p style={{ color: "#757575" }}>N/A</p>
+                    )}
                   </p>
                 </div>
               </div>
@@ -65,7 +76,9 @@ const ProjectDetails = () => {
                 </div>
                 <div className="col-sm-9">
                   <p className="mb-3">
-                    <a href="#">{project.github}</a>
+                    <a href={project.github} target="_blank">
+                      {project.github}
+                    </a>
                   </p>
                 </div>
               </div>
@@ -81,7 +94,11 @@ const ProjectDetails = () => {
               </div>
             </div>
             <div className="col-md-6 d-none d-md-block">
-              <img src={project.image} className="img-fluid rounded" />
+              <img
+                src={project.image}
+                className="img-fluid rounded"
+                style={{ border: "1px solid #ddd" }}
+              />
             </div>
           </div>
           <div className="row">

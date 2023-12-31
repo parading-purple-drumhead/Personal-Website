@@ -1,74 +1,108 @@
 {
     "name": "Sudhanshu Basuroy",
     "about": [
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur odio consectetur ea nulla assumenda obcaecati, molestiae quo explicabo architecto voluptatum? Ducimus quisquam tempore, voluptatum sit maxime repudiandae exercitationem natus sequi expedita laborum nesciunt, ipsam distinctio, blanditiis porro! Temporibus omnis voluptatum, tenetur consequuntur, labore doloremque porro quas ad, voluptatem rerum ab esse quia exercitationem veritatis illo at praesentium sed. Porro, reprehenderit eaque neque vel, laudantium voluptas quam assumenda at vero voluptatem itaque facere doloremque dolore quaerat. Eligendi quos delectus ducimus eum! Error deleniti eaque laudantium vitae debitis itaque obcaecati nesciunt! Cupiditate doloribus, minima blanditiis quo perspiciatis consequatur modi reiciendis delectus fugit!",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur odio consectetur ea nulla assumenda obcaecati, molestiae quo explicabo architecto voluptatum? Ducimus quisquam tempore, voluptatum sit maxime repudiandae exercitationem natus sequi expedita laborum nesciunt, ipsam distinctio, blanditiis porro! Temporibus omnis voluptatum, tenetur consequuntur, labore doloremque porro quas ad, voluptatem rerum ab esse quia exercitationem veritatis illo at praesentium sed. Porro, reprehenderit eaque neque vel, laudantium voluptas quam assumenda at vero voluptatem itaque facere doloremque dolore quaerat. Eligendi quos delectus ducimus eum! Error deleniti eaque laudantium vitae debitis itaque obcaecati nesciunt! Cupiditate doloribus, minima blanditiis quo perspiciatis consequatur modi reiciendis delectus fugit!"
+        "Hello, I'm Sudhanshu Basuroy, a computer science Master's student at the University of Illinois, Chicago. With five years of experience in full-stack web development, I specialize in creating practical and user-friendly websites. Currently focused on human-computer interaction (HCI), I'm exploring the possibilities of Augmented Reality (AR) and Virtual Reality (VR) systems in my academic pursuits.",
+        "In the tech space, I enjoy translating ideas into reality, balancing both intuitive interfaces and robust backend systems. Beyond coding, I'm intrigued by the intersection of technology, design, and human psychology. Feel free to check out my portfolio and connect with me if you're interested in technology and collaborative digital solutions."
     ],
     "email": "sudhanshubroy@gmail.com",
     "linkedin": "https://www.linkedin.com/in/sudhanshu-basuroy",
     "github": "https://github.com/parading-purple-drumhead?tab=repositories",
     "projects": [
         {
-            "title": "Project 1",
-            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?",
+            "title": "PictoVerse Puzzle",
+            "description": "PictoVerse Puzzle is a multiplayer turn-based game website that is based on emoji-based phrase guessing. In this game, one player is given a phrase, and they must select emojis to depict the phrase. Other players then try to guess the phrase based on the emojis chosen. To enhance user experience and manage player identification, users are required to sign in with their Google accounts.",
             "sections": [
                 {
                     "heading": "Overview",
-                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
-                },
-                {
-                    "heading": "How to Use",
-                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
-                },
-                {
-                    "heading": "Acknowledgements",
-                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                    "text": "PictoVerse Puzzle is a multiplayer turn-based game website that is based on emoji-based phrase guessing. In this game, one player is given a phrase, and they must select emojis to depict the phrase. Other players then try to guess the phrase based on the emojis chosen. To enhance user experience and manage player identification, users are required to sign in with their Google accounts."
                 }
             ],
-            "image": "https://apiwp.thelocal.com/wp-content/uploads/2021/01/4b0ac80960b859634317466cc73b3cee7cf84fbb974a030fb2a5a8b403f2a2f2-842x563.jpg",
+            "image": "https://ik.imagekit.io/fe5v3uih5/Screenshots/pictoverse-puzzle?updatedAt=1704020869033",
             "tags": [
-                "Firebase",
-                "Node",
-                "React"
+                "React",
+                "TypeScript",
+                "Firebase"
             ],
-            "website": "https://www.project-1.com",
-            "github": "https://www.github.com/project-1"
+            "website": "https://pictoverse-puzzle.netlify.app/",
+            "github": "https://github.com/parading-purple-drumhead/pictoverse-puzzle"
         },
         {
-            "title": "Project 2",
-            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?",
+            "title": "Virtual Christmas Atrium VR Experience",
+            "description": "This project was developed as part of the coursework for CS 428 Virtual, Augmented, and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The goal of the project was to create an immersive Virtual Reality scene on a building scale, specifically modifying the atrium of the upcoming CDRLC building. The development team chose a Christmas theme for the scene and adorned various parts of the atrium with festive decorations.",
             "sections": [
                 {
                     "heading": "Overview",
-                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                    "text": "This project was developed as part of the coursework for CS 428 Virtual, Augmented, and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The goal of the project was to create an immersive Virtual Reality scene on a building scale, specifically modifying the atrium of the upcoming CDRLC building. The development team chose a Christmas theme for the scene and adorned various parts of the atrium with festive decorations."
                 }
             ],
-            "image": "https://apiwp.thelocal.com/wp-content/uploads/2021/01/4b0ac80960b859634317466cc73b3cee7cf84fbb974a030fb2a5a8b403f2a2f2-842x563.jpg",
+            "image": "https://ik.imagekit.io/fe5v3uih5/Screenshots/virtual-christmas-atrium-vr-experience?updatedAt=1704020882260",
             "tags": [
-                "Firebase",
-                "Node",
-                "React"
+                "Unity",
+                "VRTK V4",
+                "Oculus Quest",
+                "Virtual Reality"
             ],
-            "website": "https://www.project-2.com",
-            "github": "https://www.github.com/project-2"
+            "website": "https://sudhanshu-ar-course.netlify.app/project3.html",
+            "github": "https://github.com/parading-purple-drumhead/Virtual-Christmas-Atrium-VR-Experience"
         },
         {
-            "title": "Project 3",
-            "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?",
+            "title": "VR Convenience Store Kiosk",
+            "description": "This project was developed as part of the coursework for CS 428 Virtual, Augmented and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The objective was to create a Virtual Reality scene featuring a commercial kiosk, and our team chose to design a convenience store kiosk offering packaged food and stationery items.",
             "sections": [
                 {
                     "heading": "Overview",
-                    "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Delectus a eaque debitis id dignissimos placeat eos aliquam voluptates amet sed facilis magnam nulla nam, veniam iste inventore ducimus. Et deserunt facere id impedit commodi aliquam odit accusantium quidem dolorem nisi quas dolores aspernatur eos est amet facilis adipisci exercitationem magni, voluptates voluptatum! Eveniet ut eum voluptatem quibusdam illum possimus, tempora temporibus dicta quia esse ab voluptates iure? Odio atque illum saepe laborum, distinctio ab itaque vero. Reprehenderit nam tempore nobis pariatur voluptas necessitatibus error doloremque ipsam laboriosam voluptatibus! Laboriosam nulla aspernatur amet rem quidem temporibus totam ipsam. Vero, adipisci nisi?"
+                    "text": "This project was developed as part of the coursework for CS 428 Virtual, Augmented and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The objective was to create a Virtual Reality scene featuring a commercial kiosk, and our team chose to design a convenience store kiosk offering packaged food and stationery items."
                 }
             ],
-            "image": "https://apiwp.thelocal.com/wp-content/uploads/2021/01/4b0ac80960b859634317466cc73b3cee7cf84fbb974a030fb2a5a8b403f2a2f2-842x563.jpg",
+            "image": "https://ik.imagekit.io/fe5v3uih5/Screenshots/vr-convenience-store-kiosk?updatedAt=1704020896582",
             "tags": [
-                "Firebase",
-                "Node",
-                "React"
+                "Unity",
+                "VRTK V4",
+                "Oculus Quest",
+                "Virtual Reality"
             ],
-            "website": "https://www.project-3.com",
-            "github": "https://www.github.com/project-3"
+            "website": "https://sudhanshu-ar-course.netlify.app/project2.html",
+            "github": "https://github.com/parading-purple-drumhead/VR-Convenience-Store-Kiosk"
+        },
+        {
+            "title": "AR Knickknacks",
+            "description": "This project was developed as part of the coursework for CS 428 Virtual, Augmented, and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The goal of the project was to create two Augmented Reality (AR) knickknacks featuring two different attractions: Chicago's Cloud Gate ('The Bean') and the United Center. Additionally, the application displays the local time and live weather information for these attractions",
+            "sections": [
+                {
+                    "heading": "Overview",
+                    "text": "This project was developed as part of the coursework for CS 428 Virtual, Augmented and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The objective was to create a Virtual Reality scene featuring a commercial kiosk, and our team chose to design a convenience store kiosk offering packaged food and stationery items."
+                },
+                {
+                    "heading": "Inspiration",
+                    "text": "Chicago, a city known for its iconic landmarks and sports culture, provided the inspiration for the chosen attractions. Cloud Gate, a famous public sculpture in Millennium Park, and the United Center, home to the Chicago Bulls, were selected as the focal points for the AR experience."
+                }
+            ],
+            "image": "https://ik.imagekit.io/fe5v3uih5/Screenshots/ar-knickknacks?updatedAt=1704020852134",
+            "tags": [
+                "Unity",
+                "Vuforia",
+                "Augmented Reality"
+            ],
+            "website": "https://sudhanshu-ar-course.netlify.app/project1.html",
+            "github": "https://github.com/parading-purple-drumhead/AR-Knickknacks"
+        },
+        {
+            "title": "Validate",
+            "description": "Validate is a web application that empowers users to submit information for verification and authentication by the community. This platform leverages crowd wisdom to fact-check various claims, categorizing them by topics for easy navigation. The frontend is developed using React, providing a modern and intuitive user interface, while user authentication is facilitated through Google logins.",
+            "sections": [
+                {
+                    "heading": "Overview",
+                    "text": "Validate is a web application that empowers users to submit information for verification and authentication by the community. This platform leverages crowd wisdom to fact-check various claims, categorizing them by topics for easy navigation. The frontend is developed using React, providing a modern and intuitive user interface, while user authentication is facilitated through Google logins."
+                }
+            ],
+            "image": "https://ik.imagekit.io/fe5v3uih5/Screenshots/validate.png?updatedAt=1704021686047",
+            "tags": [
+                "React",
+                "Firebase",
+                "FastAPI"
+            ],
+            "website": "",
+            "github": "https://github.com/parading-purple-drumhead/validate-frontend"
         }
     ]
 }
