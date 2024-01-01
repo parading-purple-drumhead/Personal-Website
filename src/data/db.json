@@ -27,7 +27,7 @@
             "github": "https://github.com/parading-purple-drumhead/pictoverse-puzzle"
         },
         {
-            "title": "Virtual Christmas Atrium VR Experience",
+            "title": "VR Christmas Atrium",
             "description": "This project was developed as part of the coursework for CS 428 Virtual, Augmented, and Mixed Reality at the University of Illinois at Chicago during the Fall 2022 semester. The goal of the project was to create an immersive Virtual Reality scene on a building scale, specifically modifying the atrium of the upcoming CDRLC building. The development team chose a Christmas theme for the scene and adorned various parts of the atrium with festive decorations.",
             "sections": [
                 {
@@ -42,7 +42,7 @@
                 "Virtual Reality"
             ],
             "website": "https://sudhanshu-ar-course.netlify.app/project3.html",
-            "github": "https://github.com/parading-purple-drumhead/Virtual-Christmas-Atrium-VR-Experience"
+            "github": "https://github.com/parading-purple-drumhead/VR-Christmas-Atrium"
         },
         {
             "title": "VR Convenience Store Kiosk",

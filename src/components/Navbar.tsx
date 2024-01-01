@@ -41,7 +41,7 @@ const Navbar = () => {
 
   return (
     // Top navbar for tablets and phones
-    <nav className="navbar navbar-expand-lg bg-body-tertiary d-lg-none px-3">
+    <nav className="navbar navbar-expand-lg sticky-top bg-body-tertiary d-lg-none px-3">
       <div className="container-fluid">
         <h3 id="navbar-title">Sudhanshu Basuroy</h3>
         <button
@@ -81,6 +81,8 @@ const Navbar = () => {
                         ? "text-secondary nav-link active"
                         : "text-secondary nav-link"
                     }
+                    data-bs-toggle="collapse"
+                    data-bs-target=".navbar-collapse"
                   >
                     About Me
                   </h6>
@@ -101,6 +103,8 @@ const Navbar = () => {
                         ? "text-secondary nav-link active"
                         : "text-secondary nav-link"
                     }
+                    data-bs-toggle="collapse"
+                    data-bs-target=".navbar-collapse"
                   >
                     Resume
                   </h6>
@@ -121,14 +125,16 @@ const Navbar = () => {
                         ? "text-secondary nav-link active"
                         : "text-secondary nav-link"
                     }
+                    data-bs-toggle="collapse"
+                    data-bs-target=".navbar-collapse"
                   >
                     Projects
                   </h6>
                 </Link>
               </div>
 
-              <h5 className="text-center mb-3">Contact Me</h5>
-              <div className="row social-links px-4">
+              <h5 className="text-center my-4">Contact Me</h5>
+              <div className="row social-links px-4 mb-3">
                 <div className="col-3 offset-1 social-link text-center">
                   <a href={`mailto:${data.email}`} target="_blank">
                     <div
