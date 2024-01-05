@@ -19,6 +19,19 @@ const AboutMe = () => {
               {paragraph}
             </p>
           ))}
+          <p
+            className="mb-5"
+            style={{
+              fontSize: "1.1rem",
+              textAlign: "justify",
+              lineHeight: "2.5rem",
+            }}
+          >
+            You may reach out to me at{" "}
+            <a className="main-text" href={`mailto:${data.email}`}>
+              {data.email}
+            </a>
+          </p>
         </div>
       </div>
     </div>
