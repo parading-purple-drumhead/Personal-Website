@@ -1,12 +1,12 @@
 {
     "name": "Sudhanshu Basuroy",
     "about": [
-        "Hello, I'm Sudhanshu Basuroy, a computer science Master's student at the University of Illinois, Chicago. With five years of experience in full-stack web development, I specialize in creating practical and user-friendly websites. Currently focused on human-computer interaction (HCI), I'm exploring the possibilities of Augmented Reality (AR) and Virtual Reality (VR) systems in my academic pursuits.",
+        "Hello, I'm Sudhanshu Basuroy, a computer science Master's graduate from the University of Illinois, Chicago. With five years of experience in full-stack web development, I specialize in creating practical and user-friendly websites. Currently focused on human-computer interaction (HCI), I'm exploring the possibilities of Augmented Reality (AR) and Virtual Reality (VR) systems in my academic pursuits.",
         "In the tech space, I enjoy translating ideas into reality, balancing both intuitive interfaces and robust backend systems. Beyond coding, I'm intrigued by the intersection of technology, design, and human psychology. Feel free to check out my portfolio and connect with me if you're interested in technology and collaborative digital solutions."
     ],
     "email": "sudhanshubroy@gmail.com",
     "linkedin": "https://www.linkedin.com/in/sudhanshu-basuroy",
-    "github": "https://github.com/parading-purple-drumhead?tab=repositories",
+    "github": "https://github.com/parading-purple-drumhead/",
     "projects": [
         {
             "title": "PictoVerse Puzzle",
@@ -41,7 +41,7 @@
                 "VRTK V4",
                 "Virtual Reality"
             ],
-            "website": "https://sudhanshu-ar-course.netlify.app/project3.html",
+            "website": "https://sudhanshu-vr-portfolio.netlify.app/project3.html",
             "github": "https://github.com/parading-purple-drumhead/VR-Christmas-Atrium"
         },
         {
@@ -59,7 +59,7 @@
                 "VRTK V4",
                 "Virtual Reality"
             ],
-            "website": "https://sudhanshu-ar-course.netlify.app/project2.html",
+            "website": "https://sudhanshu-vr-portfolio.netlify.app/project2.html",
             "github": "https://github.com/parading-purple-drumhead/VR-Convenience-Store-Kiosk"
         },
         {
@@ -72,7 +72,7 @@
                 },
                 {
                     "heading": "Inspiration",
-                    "text": "Chicago, a city known for its iconic landmarks and sports culture, provided the inspiration for the chosen attractions. Cloud Gate, a famous public sculpture in Millennium Park, and the United Center, home to the Chicago Bulls, were selected as the focal points for the AR experience."
+                    "text": "The city of Chicago, known for its iconic landmarks and sports culture, provided the inspiration for the chosen attractions. Cloud Gate, a famous public sculpture in Millennium Park, and the United Center, home to the Chicago Bulls, were selected as the focal points for the AR experience."
                 }
             ],
             "image": "https://ik.imagekit.io/fe5v3uih5/Screenshots/ar-knickknacks?updatedAt=1704020852134",
@@ -81,7 +81,7 @@
                 "Vuforia",
                 "Augmented Reality"
             ],
-            "website": "https://sudhanshu-ar-course.netlify.app/project1.html",
+            "website": "https://sudhanshu-vr-portfolio.netlify.app/project1.html",
             "github": "https://github.com/parading-purple-drumhead/AR-Knickknacks"
         },
         {
